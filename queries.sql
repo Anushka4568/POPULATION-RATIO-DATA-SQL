@@ -40,3 +40,12 @@ UNION ALL
 SELECT indicator_name, y1985
 FROM popudata
 WHERE indicator_name ILIKE '%services%' AND indicator_name ILIKE '%female%';
+
+SELECT indicator_name, y1985
+FROM popudata
+WHERE indicator_name ILIKE '%services%' AND indicator_name ILIKE '%male%'
+UNION ALL
+SELECT indicator_name, y1985
+FROM popudata
+WHERE indicator_name ILIKE '%services%' AND indicator_name ILIKE '%female%';
+
