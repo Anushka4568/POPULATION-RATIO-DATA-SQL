@@ -21,6 +21,12 @@ This project explores employment trends and population ratios in India from 1961
 - SQL
 - GitHub
 
+## 📈 Key Insights
+- Employment in agriculture saw a steady decline post-1975.
+- Female employment in the services sector began catching up in the 1980s.
+- Industry-based employment stayed relatively consistent across genders.
+
+
 
 ## 📎 Data Source
 [WorldData.info](https://www.worlddata.info)
