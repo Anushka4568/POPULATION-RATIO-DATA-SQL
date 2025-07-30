@@ -11,7 +11,7 @@ This project explores employment trends and population ratios in India from 1961
 - Cleaned and structured the data in Excel
 - Imported the cleaned CSV into PostgreSQL
 - Wrote and executed SQL queries:
-  - Aggregate functions: `AVG()`, `MAX()`, `MIN()`, 'ORDER BY()', ;AVG()'
+  - Aggregate functions: `AVG()`, `MAX()`, `MIN()`, `AVG()`, `ORDER BY()`,`UNION ALL()`, `GROUP BY()`
   - Filtering using `WHERE` clauses
   - Extracting trends based on gender, age, and employment sector
 
