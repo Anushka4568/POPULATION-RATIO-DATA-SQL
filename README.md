@@ -20,14 +20,6 @@ This project explores employment trends and population ratios in India from 1961
 - PostgreSQL
 - SQL
 - GitHub
-## 🔍 Sample Queries
-Here are examples of the SQL queries used in this project:
-
-- **Average Employment in Agriculture (1980):**
-```sql
-SELECT AVG(y1980) AS avg_employment_agriculture_1980
-FROM popudata
-WHERE indicator_name ILIKE '%agriculture%' AND indicator_name ILIKE '%total%';
 
 ## 📈 Key Insights
 - Employment in agriculture saw a steady decline post-1975.
